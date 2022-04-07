@@ -1,0 +1,1 @@
+Collect all diagrams written via [https://app.diagrams.net/](https://app.diagrams.net/)
